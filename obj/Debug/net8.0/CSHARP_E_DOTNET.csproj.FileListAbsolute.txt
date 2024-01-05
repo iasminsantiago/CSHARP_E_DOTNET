@@ -1,0 +1,14 @@
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\CSHARP_E_DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\CSHARP_E_DOTNET.AssemblyInfoInputs.cache
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\CSHARP_E_DOTNET.AssemblyInfo.cs
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\CSHARP_E_DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\bin\Debug\net8.0\CSHARP_E_DOTNET.exe
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\bin\Debug\net8.0\CSHARP_E_DOTNET.deps.json
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\bin\Debug\net8.0\CSHARP_E_DOTNET.runtimeconfig.json
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\bin\Debug\net8.0\CSHARP_E_DOTNET.dll
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\bin\Debug\net8.0\CSHARP_E_DOTNET.pdb
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\CSHARP_E_DOTNET.dll
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\refint\CSHARP_E_DOTNET.dll
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\CSHARP_E_DOTNET.pdb
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\CSHARP_E_DOTNET.genruntimeconfig.cache
+C:\Users\iasmi\Downloads\GitHub\CSHARP_E_DOTNET\obj\Debug\net8.0\ref\CSHARP_E_DOTNET.dll
